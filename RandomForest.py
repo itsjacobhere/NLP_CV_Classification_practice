@@ -4,6 +4,8 @@ import random as rand
 import seaborn as sns
 import time
 
+from DecisionTree import Decision_Tree
+
 
 class Random_Forest:
     
